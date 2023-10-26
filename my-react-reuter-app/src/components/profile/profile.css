@@ -1,0 +1,6 @@
+.card {
+    border: 2px sloid #ccc;
+    border-radius: 3px;
+    display: flex;
+    align-content: center;
+}
